@@ -1,0 +1,13 @@
+write a html js css web page that creates this mockup of a storage device scanner with integrated file browser.
+on pressing "run", the top area scans, the properties are filled and and the bar fills up to 70%, then the files fade in quickly one after the other (all of this is stoppable with ESC/END which would show as much as is available.), the stylized scrollbar on the right is functional
+The buttons/drop down menus at the bottom have alt values but no effect
+The stats at the bottom also get affected by "run"
+The back and X (close) buttons react on hover/press but have no effect.
+implement sound effects for hovering, clicking various elements
+the x button clears out all files (and restes the progress bar)
+the elements (like files, buttons) react to mouse hover and click visually (and with sound if added) but no effect except for the ones described above.
+Make sure all is stylized like in this screenshot
+Since you fail at getting the right colors, here is a list of colors extracted using https://theproductguy.in/tools/image-dominant-color :
+[insert colors here]
+You don't have to use all. but jeez
+implement it now
